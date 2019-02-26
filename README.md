@@ -1,10 +1,14 @@
 # Sample Videojs and ReactJS with End screen
 
 This project is a sample implementation for Videojs with React with the end screen suggestions view.<br>
-inspired by Open [https://www.npmjs.com/package/videojs-suggestedvideoendcap](videojs-suggestedVideoEndcap)<br>
+inspired by [videojs-suggestedVideoEndcap](https://www.npmjs.com/package/videojs-suggestedvideoendcap)<br>
 
-First, having a flag when the video is ended<br>
+First, having a flag when the video is ended<br><br>
 `this.player.on("ended", () => { this.setState({ isEnd: true }); });`
+<br><br>
+Showing the container if the flag is true.
+<br>
+<br>
 <br>
 This project was created using create react app.
 
