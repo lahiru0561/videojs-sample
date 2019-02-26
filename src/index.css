@@ -17,13 +17,13 @@ code {
 }
 .end-screen-container {
   background: rgba(0, 0, 0, 0.5);
-  height: 52%;
+  height: 40%;
   left: 31%;
   overflow: hidden;
   padding: 20px;
   position: absolute;
   right: 0;
-  top: 20%;
+  top: 28%;
   width: 36%;
 }
 .end-screen-container .end-screen-title {
