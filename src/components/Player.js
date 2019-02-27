@@ -17,9 +17,7 @@ export default class Player extends Component {
     });
 
     this.player.on('on', () => {
-      if (this.state.isEnd) {
-        this.setState({ isEnd: false });
-      }
+      this.setState({ isEnd: false });
     });
 
     this.player.on('ended', () => {
@@ -37,7 +35,7 @@ export default class Player extends Component {
 
   render() {
     return (
-      <div>
+      <div className="video-content">
         <video
           ref={node => (this.videoNode = node)}
           className="video-js"
