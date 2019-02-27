@@ -16,23 +16,23 @@ self.__precacheManifest = [
     "url": "/videojs-sample/static/js/runtime~main.4936fc28.js"
   },
   {
-    "revision": "6689e9049e61608f1b03",
-    "url": "/videojs-sample/static/js/main.6689e904.chunk.js"
+    "revision": "1623367e6a671526ab61",
+    "url": "/videojs-sample/static/js/main.1623367e.chunk.js"
   },
   {
     "revision": "49c4b2a821fb4c021eef",
     "url": "/videojs-sample/static/js/2.49c4b2a8.chunk.js"
   },
   {
-    "revision": "6689e9049e61608f1b03",
-    "url": "/videojs-sample/static/css/main.a91b2846.chunk.css"
+    "revision": "1623367e6a671526ab61",
+    "url": "/videojs-sample/static/css/main.85b23799.chunk.css"
   },
   {
     "revision": "49c4b2a821fb4c021eef",
     "url": "/videojs-sample/static/css/2.210faa87.chunk.css"
   },
   {
-    "revision": "7e5d4596dd70b878c4526ab365c5f72a",
+    "revision": "37eea5c4b8284a1742f29cb3af8533c7",
     "url": "/videojs-sample/index.html"
   }
 ];
